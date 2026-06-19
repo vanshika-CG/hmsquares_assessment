@@ -320,7 +320,7 @@ Verify:
 - API is running
 - All PostgreSQL shards are connected
 
-<img width="368" height="99" alt="Screenshot 2026-06-19 161142" src="https://github.com/user-attachments/assets/d36f25a9-d425-473d-a017-db17fcd562e0" />
+<img width="800" alt="Screenshot 2026-06-19 161142" src="https://github.com/user-attachments/assets/d36f25a9-d425-473d-a017-db17fcd562e0" />
 
 ---
 
@@ -341,7 +341,7 @@ Verify:
 - Batch insertion completed
 
 
-<img width="425" height="160" alt="Screenshot 2026-06-19 162327" src="https://github.com/user-attachments/assets/ed69d579-46ba-442d-9e36-eb7d5c79cb54" />
+<img width="800"  alt="Screenshot 2026-06-19 162327" src="https://github.com/user-attachments/assets/ed69d579-46ba-442d-9e36-eb7d5c79cb54" />
 
 ---
 
@@ -351,7 +351,7 @@ Verify:
 
 Verify deterministic shard routing.
 
-<img width="407" height="282" alt="Screenshot 2026-06-19 162822" src="https://github.com/user-attachments/assets/909802fc-0ef9-4190-a982-c3322a84f4ba" />
+<img width="800"  alt="Screenshot 2026-06-19 162822" src="https://github.com/user-attachments/assets/909802fc-0ef9-4190-a982-c3322a84f4ba" />
 
 ---
 
@@ -361,7 +361,7 @@ Verify deterministic shard routing.
 
 Verify Scatter-Gather query execution.
 
-<img width="393" height="130" alt="Screenshot 2026-06-19 162619" src="https://github.com/user-attachments/assets/d744020c-d8fe-4bb6-975b-872222c0f596" />
+<img width="800"  alt="Screenshot 2026-06-19 162619" src="https://github.com/user-attachments/assets/d744020c-d8fe-4bb6-975b-872222c0f596" />
 
 ---
 
